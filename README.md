@@ -30,7 +30,7 @@ git push -u origin main
 4. Test by command.
 ```
 flutter2 run -d chrome
-flutter2 build web
+flutter2 build web  --release
 ```
 5. After run `flutter2 build web` will get files in path `grassroot_web/build/web`.
 -  Copy all of files to root (this is important step na)
