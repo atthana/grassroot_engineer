@@ -44,7 +44,10 @@ flutter2 build web
 <br><br>
 8. Go to [here](https://atthana.github.io/grassroot_engineer/) should be shown the website as expected.
 
-<br>
+<br><br>
+
+#### References of setup Flutter web with Github pages.
+https://www.youtube.com/watch?v=YfNC0QiYNB8&t=175s
 
 ---
 Wrote by GRASSROOT ENGINEER | T-rex :t-rex: | Sunflower :sunflower: | Tomato :tomato:
