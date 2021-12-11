@@ -17,7 +17,7 @@ Tools • Dart 2.13.4
 ## Creating flutter for web:
 
 1. Open Android studio `File > New > New Flutter Project...`
-2. Type command `flutter create .`
+2. Type command `flutter2 create .`
 3. Create repo in github (type only repo name > Create repository)
 ```
 git init
