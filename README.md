@@ -39,9 +39,13 @@ flutter2 build web
 - Settings > Pages > Branch:main > (root) > Save
 - It will show published site at `https://atthana.github.io/grassroot_engineer/`
 <br><br>
-7. Go to [here](https://atthana.github.io/grassroot_engineer/) should be shown the website as expected.
-
+7. The last important thing is go to file `index.html` that just was created from command `flutter2 build web` then add more text in line14 from `<base href="/">` to below:<br><br>
+```<base href="/grassroot_engineer/">```
 <br><br>
+8. Go to [here](https://atthana.github.io/grassroot_engineer/) should be shown the website as expected.
+
+<br>
+
 ---
 Wrote by GRASSROOT ENGINEER | T-rex :t-rex: | Sunflower :sunflower: | Tomato :tomato:
 
