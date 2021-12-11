@@ -7,14 +7,14 @@ A Sample page that created from Flutter2 to show grassroot's story and interesti
 
 Path is in `/Private_Q/Website/Learnings/grassroot_engineer`
 
-### Flutter version is: 
+## Flutter version is: 
 ```
 Flutter 2.2.3 • channel stable • https://github.com/flutter/flutter.git
 Framework • revision f4abaa0735 (5 months ago) • 2021-07-01 12:46:11 -0700
 Engine • revision 241c87ad80
 Tools • Dart 2.13.4
 ```
-#### Creating flutter for web:
+## Creating flutter for web:
 
 1. Open Android studio `File > New > New Flutter Project...`
 2. Type command `flutter create .`
