@@ -46,7 +46,11 @@ flutter2 build web  --release
 
 <br><br>
 
-#### References of setup Flutter web with Github pages.
+## Recommend:
+When working in this project (Flutter2) must work in Android studio (not vscode) because I have separate between `Flutter1 in VSCode` and `Flutter2 in Android Studio`.<br><br>
+![gr.png](grassroot_web/Photo_readme/gr.png)
+<br><br>
+### References of setup Flutter web with Github pages.
 https://www.youtube.com/watch?v=YfNC0QiYNB8&t=175s
 
 ---
